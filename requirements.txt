@@ -1,0 +1,8 @@
+scikit-learn
+lightfm
+tensorflow
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
